@@ -6,65 +6,9 @@ Este projeto trata da criação de um **dashboard completo de Demonstração de 
 
 ## 🚀 **Acesso Rápido**
 
-<div>
-<table>
-  <tr>
-    <td style="width: 1800px; vertical-align: middle;">
-      <img src="/assets/xpbucks-dre-dashboard-cover.png" alt="Dashboard" width="1800" />
-    </td>
-    <td style="padding-left: 20px; vertical-align: middle;">
-      <h3>Dashboard — DRE XPBucks</h3>
-      <p>
-        Dashboard completo de Demonstrativo de Resultado de Exercício (DRE), desenvolvido para monitorar a performance financeira da XPBucks. Inclui segmentação por filial e páginas dedicadas para análises estruturais:
-      </p>
-      <ul>
-        <li>Comparativo Realizado × Meta</li>
-        <li>Análise Horizontal</li>
-        <li>Acumulado (YTD)</li>
-        <li>Análise de Despesas</li>
-      </ul>
-      <p>
-      O objetivo é substituir planilhas antigas por um painel centralizado, de fácil navegação e com métricas críticas consolidadas.
-      </p>
-      <p>
-        <a href="https://app.powerbi.com/view?r=eyJrIjoiOWY3MWMxNGYtNTYyOS00NGZmLTllNmEtZGIxOGI1ODdkNzM5IiwidCI6IjQ3MzViMTc4LTMxNWUtNDhjMC04MTExLTY5YzgxNjkyODllZiJ9">
-          📘 Abrir Dashboard
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
+[![Banner-Dashboard](/assets/Banner-Dashboard.png "Abrir Dashboard")](https://app.powerbi.com/view?r=eyJrIjoiOWY3MWMxNGYtNTYyOS00NGZmLTllNmEtZGIxOGI1ODdkNzM5IiwidCI6IjQ3MzViMTc4LTMxNWUtNDhjMC04MTExLTY5YzgxNjkyODllZiJ9)
 
-<div>
-<table>
-  <tr>
-    <td style="padding-left: 20px; padding-right: 20px; vertical-align: middle;">
-      <h3>Apresentação — DRE XPBucks</h3>
-      <p>
-        Apresentação executiva construída para comunicar resultados financeiros de forma clara e estratégica para a diretoria. Inclui visão consolidada de desempenho, detalhamento por filial e análise de tendências relevantes:
-      </p>
-      <ul>
-        <li>Visão Geral do Desempenho</li>
-        <li>Desempenho por Unidade</li>
-        <li>Análises Estruturais e Sazonais</li>
-        <li>Indicadores de Performance de Longo Prazo</li>
-      </ul>
-      <p>
-      Elaborada para apoiar decisões operacionais e estratégicas com base em dados consolidados.
-      </p>
-      <p>
-        <a href="https://www.canva.com/design/DAG4gdO1IkU/RUU00U5MoiC5IZNxbiK40g/edit?utm_content=DAG4gdO1IkU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-          🎞️ Abrir Apresentação
-        </a>
-      </p>
-    </td>
-    <td style="width: 1800px; vertical-align: middle;">
-      <img src="/assets/xpbucks-dre-presentation-cover.png" alt="Apresentação DRE" width="1800" />
-    </td>
-  </tr>
-</table>
-</div>
+[![Banner-Presentation](/assets/Banner-Presentation.png "Abrir Apresentação")](https://www.canva.com/design/DAG4gdO1IkU/RUU00U5MoiC5IZNxbiK40g/edit?utm_content=DAG4gdO1IkU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
